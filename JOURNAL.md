@@ -10,7 +10,7 @@ created_at: "2026-011-01"
 Worked on creating a matrix schematic for my macropad on Kicad and succesfuly created the schematic
 and the connections.
 
-![pcb layout](main/Schematics_Day_1.png)
+![pcb layout](Schematics_Day_1.png)
 
 **Total time spent: 2 hours**
 
