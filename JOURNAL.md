@@ -10,22 +10,7 @@ created_at: "2026-011-01"
 Worked on creating a matrix schematic for my macropad on Kicad and succesfuly created the schematic
 and the connections.
 
-![pcb layout](images/pcb-v1.png)
+![schematics](Schematics Day 1.png)
 
-**Total time spent: 4 hours**
+**Total time spent: 2 hours**
 
-# March 21: Ordered components
-
-Placed orders for all the SMD parts from LCSC. Also found a better
-LDO regulator that saves board space.
-
-**Total time spent: 1 hour**
-
-# March 23: PCB arrived, started soldering
-
-The boards came in! Soldered the first prototype. Two pads were
-bridged on the QFN package — had to wick and redo them.
-
-![soldering](images/soldering.jpg)
-
-**Total time spent: 3 hours**
