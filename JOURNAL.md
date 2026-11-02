@@ -14,12 +14,6 @@ and the connections.
 
 **Total time spent: 2 hours**
 
-
-title: "QuFi Hackclub Project Day 2"
-author: "Darsh Shah"
-description: "Worked towards actually creating the PCB and making sure that the 3d models were good so I can start working on cad soon"
-created_at: "2026-011-02"
-
 # November 2: Designed the PCB layout
 
 Worked on creating a PCB for my macropad on Kicad and added a rotary encoder components. A big time crunch today was making sure that my 
