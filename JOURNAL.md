@@ -29,10 +29,21 @@ Worked on creating a PCB for my macropad on Kicad and added a rotary encoder com
 I realized yesterday(Nov 2) that I don't want to stick to just switches and rotary encoder. I want to add more features like led backlights to represent the 
 command layer, or just for customization. I also wanted to add the oled display to display things features such as command layer, function choosen, or etc(the
 full ideas for oled are still jogging through my mind for me to chase, lol). So I ended up watching a few videos, ton of google searches, and some questions for gemini
-ro figure out how voltage works for these additional components, expanding pins available, making sure the electrical properties are working correctly, 
+to figure out how voltage works for these additional components, expanding pins available, making sure the electrical properties are working correctly, 
 and that the schematics is also simplified. In the end I added all my components and simplified the schematic to the best of my current ability. The components added 
 include 16 mini e leds, I/O expansion, and a 128 by 32 pixel OLED display
 
 ![pcb layout version 1](Schematics_Day3.png)
 
 **Total time spent: 2.5 hours**
+
+# November 4: Simplify Schematics and Adjust NETS, POWER, and VOLTAGE
+
+Bascially when I opened up my schematics today to check if everything is good for the get go on the PCB, I realized something. The schematics could be describe as modern "art",
+so I committed myself to somewhat cleaning up this eyesore with the little I know about schematics so far and some help of gemini to figure out how to quickly apply changes onto multiple
+components. In doing so ended up creating nets for most things, I also just simplified power connections with labels and pwoer flags. I also added a ton of capacitors to make sure the LED
+colors were more consistant.
+
+![pcb layout version 1](Schematics_Day3.png)
+
+**Total time spent: 2 hours**
