@@ -10,7 +10,7 @@ created_at: "2026-011-01"
 Worked on creating a matrix schematic for my macropad on Kicad and succesfuly created the schematic
 and the connections.
 
-![pcb layout](Schematics_Day_1.png)
+![Schematics version 1](Schematics_Day_1.png)
 
 **Total time spent: 2 hours**
 
@@ -20,6 +20,6 @@ Worked on creating a PCB for my macropad on Kicad and added a rotary encoder com
 3dshapes paths were correct. This is my first time working on schematics and with the tutorial i'm watching of ScottoKeebs I ran into issues with pulling few 
 3d models but after a few hours of troubleshooting I got it!
 
-![pcb layout](Schematics_Day_1.png)
+![pcb layout version 1](PCB_Day2.png)
 
 **Total time spent: 3 hours**
