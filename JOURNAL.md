@@ -33,6 +33,6 @@ ro figure out how voltage works for these additional components, expanding pins 
 and that the schematics is also simplified. In the end I added all my components and simplified the schematic to the best of my current ability. The components added 
 include 16 mini e leds, I/O expansion, and a 128 by 32 pixel OLED display
 
-![pcb layout version 1](Schematics_Day2.png)
+![pcb layout version 1](Schematics_Day3.png)
 
 **Total time spent: 2.5 hours**
