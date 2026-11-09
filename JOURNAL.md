@@ -47,3 +47,12 @@ colors were more consistant.
 ![pcb layout version 1](Schematics_Day4.png)
 
 **Total time spent: 2 hours**
+
+# November 5: Re-Arranging PCB
+
+I honestly did not have any time today to do anything so I just went on for ten minutes and moved a few things around on the PCB and planned 
+how I will move more stuff when I get the time.
+
+
+**Total time spent: 0.16 hours**
+
