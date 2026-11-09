@@ -56,3 +56,31 @@ how I will move more stuff when I get the time.
 
 **Total time spent: 0.16 hours**
 
+# November 6: Continuation of PCB organization
+
+I continued what I started the previous day which was the organization of all the components on the PCB before I get to routing. I mostly got everything completed except for capciotrs and resistors
+which I will soon hopefully work on. I changed some footprints and layered some components on top of eachother. Lots of off camera research for me to undestand if its possible. Also I tried to make my own footprint 
+which didn't go to well but I think I know how to do it if I need it in the future.
+
+![pcb layout version 1](Schematics_Day4.png)
+
+**Total time spent: 2.5 hours**
+
+# November 7-8: More organization and routing traces
+
+These two days I just pretty much did a tad bit of finalizing on where I wanted to place all the components on the board relative to routing and etc. I ended up routing mostly everything and had to watch a few videos on that.
+I also had to learn how to make pour zones and other types of zones. I ended up doing a copper pour for my GND and just made a zone so that I don't have to individually trace it. I also did no pour zones so that some pads don't short 
+circut the board. 
+
+![pcb layout version 1](Schematics_Day4.png)
+
+**Total time spent: 4.5 hours**
+
+# November 9: Fixing everything on DRC and getting 3d model ready
+
+Today I did the DRC and started debugging everything that had any conflcits. My main problems were some edge cuts and holes in my led footprints that I have no purpose for. So I ended up universally changing those footprints to a new edited
+version I made. I also added some m2 screw holes around the board for me to properly screw it into the frame.
+
+![pcb layout version 1](Schematics_Day4.png)
+
+**Total time spent: 1.5 hours**
