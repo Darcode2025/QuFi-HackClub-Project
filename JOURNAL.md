@@ -44,6 +44,6 @@ so I committed myself to somewhat cleaning up this eyesore with the little I kno
 components. In doing so ended up creating nets for most things, I also just simplified power connections with labels and pwoer flags. I also added a ton of capacitors to make sure the LED
 colors were more consistant.
 
-![pcb layout version 1](Schematics_Day3.png)
+![pcb layout version 1](Schematics_Day4.png)
 
 **Total time spent: 2 hours**
