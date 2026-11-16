@@ -26,11 +26,15 @@ required. It uniquely offers both commonly used preloaded formulas, as well as c
 
 | Key | Action | Shortcut Sent |
 |-----|--------|---------------|
-| 1 | Accounting equation check (should equal 0) | `Alt + =` |
-| 2 | [Action] | `[Shortcut]` |
-| 3 | [Action] | `[Shortcut]` |
-| 4 | [Action] | `[Shortcut]` |
-
+| 1 | Accounting equation check (should equal 0) | =Assets-(Liabilities+Equity) |
+| 2 |Gross profit | =Revenue-COGS |
+| 3 | Net income | 	=Revenue-Expenses |
+| 4 | Gross margin % | =(Revenue-COGS)/Revenue |
+| 5 | Working capital | =CurrentAssets-CurrentLiabilities |
+| 6 | Current ratio| =(Cash+AR+Securities)/CurrentLiabilities |
+| 7 | Quick ratio | 	=Revenue-Expenses |
+| 8 | Debt-to-equity | =TotalLiabilities/TotalEquity |
+| 9 | Straight-line depreciation | =SLN(Cost,Salvage,Life) |
 ---
 
 # 🔧 How To Use It
@@ -39,6 +43,7 @@ required. It uniquely offers both commonly used preloaded formulas, as well as c
 2. Flash the firmware: [QMK / KMK / Arduino + steps or link].
 3. Open Excel and press any key.
 4. To change a key, edit `firmware/keymap` and reflash.
+5. To directly select numbers used in the formula, click equals in the cell which the desired output should reside in, then click on all the relevant data in order they show up in the equation, then click the key on QuFi
 
 ---
 
