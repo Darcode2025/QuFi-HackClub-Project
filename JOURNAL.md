@@ -85,12 +85,24 @@ version I made. I also added some m2 screw holes around the board for me to prop
 
 **Total time spent: 1.5 hours**
 
-# November 10-12.: Fixing everything on DRC and getting 3d model ready
+# November 10-12.: 3d modeling, PCB Edits, and CAD
 
-Genuinly a terrible attempt at CAD today. I redownloaded fusion 360 after a few years and I imported the step file for my PCB. Turns out instead of a step file I needed an OBJ or  just a normal 3d file to simplify
+Genuinely a terrible attempt at CAD today. I redownloaded fusion 360 after a few years and I imported the step file for my PCB. Turns out instead of a step file I needed an OBJ or  just a normal 3d file to simplify
 manipulation. Once I got that figure out I started designing the casing but then I realized my edge cuts for the PCB were genuinly random measurments so i had to edit the PCB so it can be an actual dimensioned rectangle. 
 Once I had the new file I created a rough case and some mounting pads for the PCB.
 
 ![pcb layout version 1](Images_QuFI/CAD_Day10-12.png)
 
 **Total time spent: 3 hours**
+
+# November 14-15.: Fixing everything on DRC and getting 3d model ready
+
+A much more noble attempt at designing the 3d housing for the PCB. I ended up starting off with making the USB C hole. I then added holes to the PCb pads to screw it in with the actual PCB.
+I continued then to add screws connecting a bottom piece to the top, however, I realized that the top piece and the PCB pads made it impossible to put in a bottom layer if I wanted to. So I made a new 
+version with the same features but I joined the triangular PCB pads to the bottom. I then made the top its own cap with heatset insert holes, and the bottom has a securing hole for m2 screws. Another noticable
+issue I found was that the casing was disproportionate and the left side had more space from the keys that the right side. This is not really a huge design issue but it can irrirtate some people and might make hand placement
+difficult. So I edited the bottom and top part to be uniform with the board and keys.
+
+![pcb layout version 1](Images_QuFI/CAD_Day14-15.png)
+
+**Total time spent: 4.5 hours**
