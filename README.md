@@ -4,9 +4,6 @@ This is a macropad specifically designed for excel shortcuts for accounting in p
 # QuFi
 
 ### **A custom macropad that simplifies accounting and financial analysis.**
-
-![ExcelPad fully assembled](images/hero-shot.jpg)
-
 ---
 
 # ❓ What Is This? 
