@@ -49,48 +49,20 @@ required. It uniquely offers both commonly used preloaded formulas, as well as c
 
 # 💡 Why I Made This
 
-[Describe the specific problem you were solving. Be personal and honest.]
+My Parents are in corporate finance, and I suprisingly love investing and financial analysis. I see them every day using excel and related platforms and its genuinly a typing strain. I've personally used it many times as well 
+and it is still efficient but it can be easier and quicker.
 
 ---
 
 # 🖼️ Gallery
 
-## Full 3D Model (Assembled)
-![3D Model](images/3d-model.png)
+## Full 3D Model without keycaps and knob (Assembled)
+![3D Model](Images_QuFI/CAD_Day14-15.png)
 
 ## PCB
-![PCB](images/pcb.png)
+![PCB](Images_QuFI/PCB_Day8.png)
 
 ## Wiring Diagram / Schematic
-![Schematic](images/schematic.png)
+![Schematic](Images_QuFI/Schematics_Day4.png)
 
----
 
-# 🧰 Bill of Materials
-
-| Part | Qty | Notes |
-|------|-----|-------|
-| [Microcontroller] | 1 | |
-| Switches | [X] | |
-| Keycaps | [X] | |
-| Diodes | [X] | |
-
-**Total cost:** ~$[X]
-
----
-
-# 📁 Repository Structure
-
-```
-├── firmware/
-├── pcb/
-├── cad/
-├── images/
-└── README.md
-```
-
----
-
-# 📜 License
-
-[MIT or other]
