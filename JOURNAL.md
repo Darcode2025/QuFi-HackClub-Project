@@ -62,7 +62,7 @@ I continued what I started the previous day which was the organization of all th
 which I will soon hopefully work on. I changed some footprints and layered some components on top of eachother. Lots of off camera research for me to undestand if its possible. Also I tried to make my own footprint 
 which didn't go to well but I think I know how to do it if I need it in the future.
 
-![pcb layout version 1](Images_QuFI/PCB_Day7.png)
+![pcb layout version 1](Images_QuFI/PCB_Day6.png)
 
 **Total time spent: 2.5 hours**
 
