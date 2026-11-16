@@ -20,7 +20,7 @@ Worked on creating a PCB for my macropad on Kicad and added a rotary encoder com
 3dshapes paths were correct. This is my first time working on schematics and with the tutorial i'm watching of ScottoKeebs I ran into issues with pulling few 
 3d models but after a few hours of troubleshooting I got it!
 
-![pcb layout version 1](PCB_Day2.png)
+![pcb layout version 1](Images_QuFI/PCB_Day2.png)
 
 **Total time spent: 3 hours**
 
@@ -33,7 +33,7 @@ to figure out how voltage works for these additional components, expanding pins 
 and that the schematics is also simplified. In the end I added all my components and simplified the schematic to the best of my current ability. The components added 
 include 16 mini e leds, I/O expansion, and a 128 by 32 pixel OLED display
 
-![pcb layout version 1](Schematics_Day3.png)
+![pcb layout version 1](Images_QuFI/Schematics_Day3.png)
 
 **Total time spent: 2.5 hours**
 
@@ -44,7 +44,7 @@ so I committed myself to somewhat cleaning up this eyesore with the little I kno
 components. In doing so ended up creating nets for most things, I also just simplified power connections with labels and pwoer flags. I also added a ton of capacitors to make sure the LED
 colors were more consistant.
 
-![pcb layout version 1](Schematics_Day4.png)
+![pcb layout version 1](Images_QuFI/Schematics_Day4.png)
 
 **Total time spent: 2 hours**
 
@@ -62,7 +62,7 @@ I continued what I started the previous day which was the organization of all th
 which I will soon hopefully work on. I changed some footprints and layered some components on top of eachother. Lots of off camera research for me to undestand if its possible. Also I tried to make my own footprint 
 which didn't go to well but I think I know how to do it if I need it in the future.
 
-![pcb layout version 1](Schematics_Day4.png)
+![pcb layout version 1](Images_QuFI/PCB_Day7.png)
 
 **Total time spent: 2.5 hours**
 
@@ -72,8 +72,8 @@ These two days I just pretty much did a tad bit of finalizing on where I wanted 
 I also had to learn how to make pour zones and other types of zones. I ended up doing a copper pour for my GND and just made a zone so that I don't have to individually trace it. I also did no pour zones so that some pads don't short 
 circut the board. 
 
-![pcb layout version 1](Schematics_Day4.png)
-
+![pcb layout version 1](Images_QuFI/PCB_Day7.png)
+![pcb layout version 1](Images_QuFI/PCB_Day8.png)
 **Total time spent: 4.5 hours**
 
 # November 9: Fixing everything on DRC and getting 3d model ready
@@ -81,6 +81,6 @@ circut the board.
 Today I did the DRC and started debugging everything that had any conflcits. My main problems were some edge cuts and holes in my led footprints that I have no purpose for. So I ended up universally changing those footprints to a new edited
 version I made. I also added some m2 screw holes around the board for me to properly screw it into the frame.
 
-![pcb layout version 1](Schematics_Day4.png)
+![pcb layout version 1](Images_QuFI/PCB_Day9.png)
 
 **Total time spent: 1.5 hours**
