@@ -22,7 +22,7 @@ Worked on creating a PCB for my macropad on Kicad and added a rotary encoder com
 
 ![pcb layout version 1](Images_QuFI/PCB_Day2.png)
 
-**Total time spent: 3 hours**
+**Total time spent: 1.5 hours**
 
 # November 3: Improve the schematics and added components
 
@@ -35,7 +35,7 @@ include 16 mini e leds, I/O expansion, and a 128 by 32 pixel OLED display
 
 ![pcb layout version 1](Images_QuFI/Schematics_Day3.png)
 
-**Total time spent: 2.5 hours**
+**Total time spent: 1.5 hours**
 
 # November 4: Simplify Schematics and Adjust NETS, POWER, and VOLTAGE
 
@@ -46,13 +46,12 @@ colors were more consistant.
 
 ![pcb layout version 1](Images_QuFI/Schematics_Day4.png)
 
-**Total time spent: 2 hours**
+**Total time spent: 1.5 hours**
 
 # November 5: Re-Arranging PCB
 
 I honestly did not have any time today to do anything so I just went on for ten minutes and moved a few things around on the PCB and planned 
 how I will move more stuff when I get the time.
-
 
 **Total time spent: 0.16 hours**
 
@@ -64,7 +63,7 @@ which didn't go to well but I think I know how to do it if I need it in the futu
 
 ![pcb layout version 1](Images_QuFI/PCB_Day6.png)
 
-**Total time spent: 2.5 hours**
+**Total time spent: 2.15 hours**
 
 # November 7-8: More organization and routing traces
 
