@@ -3,29 +3,30 @@ This is a macropad specifically designed for excel shortcuts for accounting in p
 
 # QuFi
 
-### **A custom macropad that puts your most-used Excel shortcuts under one finger.**
+### **A custom macropad that simplifies accounting and financial analysis.**
 
 ![ExcelPad fully assembled](images/hero-shot.jpg)
 
 ---
 
-# 📌 What Is This?
+# ❓ What Is This? 
 
-**ExcelPad** is a [X]-key macropad built for Excel power users. [One sentence on what makes it unique.]
+**QuFi** is a macropad that brings some of the most commonly used financial formulas into excel with no technical experience
+required. It uniquely offers both commonly used preloaded formulas, as well as customizable layers in a library of financial formulas or you can bring your own formulas! 
 
 ---
 
 # ⚙️ What Does It Do?
 
-- **[Feature 1]:** [Description]
-- **[Feature 2]:** [Description]
-- **[Feature 3]:** [Description]
+- **GAAP Accounting Formulas:** QuFi Comes preloaded with 27 GAAP Accounting formulas with everything from calculating assets to Income Calculations
+- **Full Customizable Library:** I'm currently working on a libarary to bring almost any excel accounting or corporate finance formula to QuFi which will allow users the change their configurationa and quick formulas.
+- **Custom Formulas:** I'm working on documentation for users to create their own formulas either by themselves or using AI to apply to QuFi.
 
 ## Key Layout
 
 | Key | Action | Shortcut Sent |
 |-----|--------|---------------|
-| 1 | Autosum | `Alt + =` |
+| 1 | Accounting equation check (should equal 0) | `Alt + =` |
 | 2 | [Action] | `[Shortcut]` |
 | 3 | [Action] | `[Shortcut]` |
 | 4 | [Action] | `[Shortcut]` |
