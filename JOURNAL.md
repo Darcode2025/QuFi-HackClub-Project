@@ -84,3 +84,13 @@ version I made. I also added some m2 screw holes around the board for me to prop
 ![pcb layout version 1](Images_QuFI/PCB_Day9.png)
 
 **Total time spent: 1.5 hours**
+
+# November 10-12.: Fixing everything on DRC and getting 3d model ready
+
+Genuinly a terrible attempt at CAD today. I redownloaded fusion 360 after a few years and I imported the step file for my PCB. Turns out instead of a step file I needed an OBJ or  just a normal 3d file to simplify
+manipulation. Once I got that figure out I started designing the casing but then I realized my edge cuts for the PCB were genuinly random measurments so i had to edit the PCB so it can be an actual dimensioned rectangle. 
+Once I had the new file I created a rough case and some mounting pads for the PCB.
+
+![pcb layout version 1](Images_QuFI/CAD_Day10-12.png)
+
+**Total time spent: 3 hours**
