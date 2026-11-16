@@ -105,4 +105,4 @@ difficult. So I edited the bottom and top part to be uniform with the board and 
 
 ![pcb layout version 1](Images_QuFI/CAD_Day14-15.png)
 
-**Total time spent: 4.5 hours**
+**Total time spent: 0 hours**
