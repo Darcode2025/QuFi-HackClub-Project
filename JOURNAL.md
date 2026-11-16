@@ -52,7 +52,7 @@ colors were more consistant.
 
 I honestly did not have any time today to do anything so I just went on for ten minutes and moved a few things around on the PCB and planned 
 how I will move more stuff when I get the time.
-
+![pcb layout version 1](Images_QuFI/PCB_Day5.png)
 **Total time spent: 0.16 hours**
 
 # November 6: Continuation of PCB organization
