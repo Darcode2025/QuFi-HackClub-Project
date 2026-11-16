@@ -12,7 +12,7 @@ and the connections.
 
 ![Schematics version 1](Images_QuFI/Schematics_Day1.png)
 
-**Total time spent: 2 hours**
+**Total time spent: 1.5 hours**
 
 # November 2: Designed the PCB layout
 
